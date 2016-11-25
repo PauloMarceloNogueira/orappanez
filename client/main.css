@@ -1,0 +1,17 @@
+/* CSS declarations go here */
+body {
+  background-color: #cdcdcd
+}
+
+.jumbotron {
+  background-image: url('http://rd1.ig.com.br/wp-content/uploads/2013/02/O-Rappa2.jpg')
+}
+
+.container {
+  height: 607px;
+}
+
+.col-md-6 {
+  background-color: white;
+  opacity: 0.9
+}
